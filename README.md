@@ -1,12 +1,23 @@
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp8359914.jpg" alt="Banner" width="800" style="border-radius: 12px;">
+  <img src="https://wallpapercave.com/wp/wp8359914.jpg" alt="Banner" width="850" style="border-radius: 14px;">
 </p>
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#4A90E2;">Shaine!</span></h1>
+<h1 align="center" style="font-size: 36px;">
+  👋 Hi there, I'm <span style="color:#4A90E2;">Shaine!</span>
+</h1>
 
 <p align="center">
-  I'm a passionate student developer who loves to explore and build cool things.  
+  <strong>Student Developer | Tech Explorer | Constant Learner</strong><br/>
+  I love building fun ideas, experimenting with tech, and learning something new every day.
 </p>
+
+---
+
+## 🎯 About Me
+- 🔧 Passionate about building clean and functional projects  
+- 🎓 Currently learning multiple languages & frameworks  
+- 🧠 ADHD & Colorblind — accessibility is important to me  
+- 🚀 Love creating projects that are beautiful *and* useful  
 
 ---
 
@@ -29,32 +40,36 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaiyon69&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiyon69&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaiyon69&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiyon69&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 - Deepening knowledge in **C#** and **Java**
-- Strengthening **web development** (JavaScript, HTML, CSS, PHP)
-- Learning **C++**, **Angular**, **Vue**, and **TypeScript**
-- Studying **accessibility & inclusive design**
+- Improving **frontend & backend web development**
+- Exploring **Vue**, **Angular**, and **TypeScript**
+- Understanding **accessibility & inclusive design**
 
 ---
 
 ## 🤝 Looking to Collaborate On
-- Accessible technology projects  
-- Fun and meaningful open-source collabs  
+- Accessible tools  
+- Beginner-friendly open-source projects  
+- Anything fun, creative, or experimental  
 
 ---
 
 ## 🧠 Fun Facts
-- I have **ADHD** and am **colorblind** — I love building things that everyone can use!
-- I enjoy solving real-world problems through code.
+- I hyperfocus on projects I love  
+- Accessibility matters a lot to me  
+- I enjoy making tech *look good* and *feel good*  
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my projects! ⭐
+  ⭐ Thanks for visiting my profile! ⭐  
+  <br/>
+  <i>Feel free to explore my repos and connect!</i>
 </p>
